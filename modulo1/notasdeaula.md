@@ -107,3 +107,11 @@ teste 1 - status
 
     git branch
         lista todas as branchs do repositório e o * indica qual está em uso
+
+
+
+Módulo 1
+
+Módulo 2
+
+Módulo 3
