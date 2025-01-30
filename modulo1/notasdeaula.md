@@ -96,4 +96,22 @@ Arquivos .md = arquivo tipo texto para anotações
     ou pode fazer git add caminho específico do arquivo
 
 
-teste 1
+teste 1 - status
+
+
+    git checkout -b modeulo3-git
+        cria uma nova branch e já vai pra ela (-b que cria)
+        só pra mudar de branch é
+    git checkout nome_da_branch
+----------------
+
+    git branch
+        lista todas as branchs do repositório e o * indica qual está em uso
+
+
+
+Módulo 1
+
+Módulo 2
+
+Módulo 3
