@@ -91,6 +91,9 @@ Arquivos .md = arquivo tipo texto para anotações
 -----------------
 
     git add .
-        adiciona todos os arquivos
+        adiciona todos os arquivos para a esteira de commit
 
     ou pode fazer git add caminho específico do arquivo
+
+
+teste 1
